@@ -1,5 +1,5 @@
 # IEEE NITP Technical Classes 2021 Submissions
-![](https://img.shields.io/badge/IEEE_NITP-2021-informational.svg)    ![](https://img.shields.io/badge/Coding-Questions-informational.svg)     ![](https://img.shields.io/badge/Student-Submissions-informational.svg)
+![](https://img.shields.io/badge/IEEE_NITP-2021-informational.svg)    ![](https://img.shields.io/badge/Coding-Questions-informational.svg)     ![](https://img.shields.io/badge/Student-Solutions-informational.svg)
 
 ![IEEE](https://github.com/ieeenitp/TechnicalClasses2021_Submissions/blob/main/download.jpg?raw=true)
 
