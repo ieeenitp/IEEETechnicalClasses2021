@@ -1,6 +1,19 @@
 ## Question 1 <br/>
 
-According to a study, the approximate level of intelligence of a person can be calculated using the following formula:
+#include <stdio.h>
 
-i=2+(y+0.5x)
+int main()
+
+int j=4 j = -1 k=0,w,x,y,z;
+w=i || j || k;
+x = i && j && k;
+y= i || j && k;
+z = i && j | k;
+printf ( "w = %d x = %d y = %d z = %d\n", w, X,Y, Z);
+
+
+
+return 0;
+
+}
 
