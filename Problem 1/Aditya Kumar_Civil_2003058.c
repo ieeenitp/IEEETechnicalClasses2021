@@ -1,5 +1,6 @@
 #include<stdio.h>
- int main()
+ 
+int main()
  { int y, c=1; 
 float i, x;
 for(y=1; y<=6; y++) 
