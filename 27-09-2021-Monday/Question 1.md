@@ -2,7 +2,7 @@
 
 int main()<br/>
 
-{   <br/>
+{   
 int i=4,j=-1,k=0,w,x,y,z;<br/>
 
 w=i||j||k;<br/>
