@@ -16,8 +16,11 @@ else
 
 printf("%d\n", j);
 i+=j;
-return 0;
+
 
    }
-
+return 0;
 }
+
+
+output :- 2,5 
