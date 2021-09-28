@@ -7,4 +7,4 @@
    The questions and solutions can be found in this repository with the respective folder.
    
 ## Submitting The Solution
-**Please subit your solutuons [here](https://github.com/ieeenitp/TechnicalClasses2021_Submissions), The process for submission can be found written in readme.md file at the link.**
+**Please submit your solutuons [here](https://github.com/ieeenitp/TechnicalClasses2021_Submissions), The process for submission can be found written in readme.md file at the link.**
