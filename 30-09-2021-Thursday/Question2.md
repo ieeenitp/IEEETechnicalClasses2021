@@ -1,0 +1,1 @@
+Write a program to input an integer and output its octal equivalent (Hint: To obtain octal equivalent of an integer, divide it continuous by 8 till dividend becomes zero, then write the remainders obtained in reverse direction.)
